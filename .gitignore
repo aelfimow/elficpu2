@@ -13,3 +13,10 @@ Spartan3E_StarterKit/elficpu2/_xmsgs/
 Spartan3E_StarterKit/elficpu2/iseconfig/
 Spartan3E_StarterKit/elficpu2/webtalk_pn.xml
 Spartan3E_StarterKit/elficpu2/xst/
+Spartan3E_StarterKit/elficpu2/CPU_2.bld
+Spartan3E_StarterKit/elficpu2/CPU_2.ngd
+Spartan3E_StarterKit/elficpu2/CPU_2_map.map
+Spartan3E_StarterKit/elficpu2/CPU_2_map.mrp
+Spartan3E_StarterKit/elficpu2/CPU_2_ngdbuild.xrpt
+Spartan3E_StarterKit/elficpu2/_ngo/
+Spartan3E_StarterKit/elficpu2/xlnx_auto_0_xdb/
